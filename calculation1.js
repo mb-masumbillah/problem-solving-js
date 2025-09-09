@@ -1,3 +1,5 @@
+// Problem : -->
+
 /* 
     The Simple String Calculator
     Your Goal: Write a program that can calculate the sum of numbers found inside a string.
@@ -14,6 +16,7 @@
     1+2+hello+3+4-----10
 */
 
+// Solved : -->
 
 let symbols = "!@#$%^&*()-_=+[]{}\\|;:'\",<.>/?`~";
 
